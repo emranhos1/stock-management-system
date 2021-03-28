@@ -4,3 +4,6 @@
 2. Change DB username and password as yours in ```src/com/eh/stock/util/dbconnection```
 3. Clean and build 
 4. run
+
+
+If jar was missing then there is a mysql jar in ```src/needed-jar/```

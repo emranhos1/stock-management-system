@@ -1,3 +1,5 @@
 
 INFO :: 2021-03-28 09.20.44.365 com.eh.stock.login.Login
 Login Successful with user id :1
+INFO :: 2021-03-28 10.34.33.529 com.eh.stock.admin.AllUser
+Logout Successful with user id :1
